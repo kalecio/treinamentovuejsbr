@@ -1,6 +1,6 @@
 <template>
   <div class="flex justify-center w-full">
-    <div class="flex flex-col items-center w-4/5 max-w-6x1 my-16">
+    <div class="flex flex-col items-center w-4/5 max-w-6xl my-16">
       <h1 class="text-4x1 font-black text-center text-gray-800">
         Alguma dúvida?
       </h1>
